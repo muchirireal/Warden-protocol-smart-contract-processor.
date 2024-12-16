@@ -1,4 +1,4 @@
-# Warden-protocol-smart-contract-processor.
+# Warden protocol
 To create a smart contract that processes a binary transaction and returns a JSON object with extracted variables, you can leverage Solidity for the smart contract code and deploy it to an Ethereum-like blockchain. This will handle the binary data and extract relevant fields. These fields can then be used in Shield language (a security policy language) to enforce specific rules such as ensuring transactions are sent to certain addresses.
 
 Here’s a basic structure for the repository, along with the necessary Solidity smart contract code and the general steps for integrating with Shield language.
